@@ -1,5 +1,7 @@
 # MineSweeper
  ![](Images/Display.jpg)
+ 
+ 
  A Console Based MineSweeper Game in C++
  I Developed this Game during my Introduction to Computing course.
  The Standard followed is C++11.
