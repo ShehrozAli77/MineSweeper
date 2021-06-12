@@ -8,6 +8,7 @@
  The Board consists of 10 x 10 Square Grid
  
  **How To Play**
+ 
  Each row is numbered from 0 to 9
  Each column has a alphabet associated with it for a to j
  1. First you choose whether you want to OPEN a cell or FLAG a Cell.
